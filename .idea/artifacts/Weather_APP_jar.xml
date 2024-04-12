@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Weather APP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Weather_APP_jar</output-path>
+    <root id="archive" name="Weather APP.jar">
+      <element id="module-output" name="Weather APP" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/json-simple-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/flatlaf-3.4.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/ImgWeather" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/fonts" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/ImgStrat" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/ImgUi" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/ImgAirQuality" />
+    </root>
+  </artifact>
+</component>
