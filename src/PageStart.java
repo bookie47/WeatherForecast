@@ -18,6 +18,7 @@ public class PageStart extends JFrame {
         setLocationRelativeTo(null);
         setBackground(new Color(217,217,217));
         addGuiComponents();
+        //Weather App
 
     }
     private void addGuiComponents(){
